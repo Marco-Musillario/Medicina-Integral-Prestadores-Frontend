@@ -44,7 +44,7 @@ Incluye:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/DesApp-2025c2-Grupo16/frontend.git
+   git clone https://github.com/Marco-Musillario/Medicina-Integral-Prestadores-Frontend.git frontend
    cd frontend
 2. Instalar dependencias:
    ```bash
