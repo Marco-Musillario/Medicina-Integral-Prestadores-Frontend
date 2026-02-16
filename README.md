@@ -1,5 +1,7 @@
 Repositorio FRONTEND del grupo 16 de la materia Desarrollo de Aplicaciones (UNAHUR).
 
+[Repositorio Backend](https://github.com/Marco-Musillario/Medicina-Integral-Prestadores-Backend.git)
+
 ## Integrantes del grupo
 - Marcos Cravero  
 - Nicolás García  
@@ -33,7 +35,8 @@ Incluye:
 
 ## Requisitos previos
 - Tener instalado Node.js (v18 o superior recomendado).  
-- Tener instalado npm (incluido con Node).  
+- Tener instalado npm (incluido con Node).
+- Haber clonado e inicializado el [backend](https://github.com/Marco-Musillario/Medicina-Integral-Prestadores-Backend.git)
 
 ---
 
@@ -44,14 +47,10 @@ Incluye:
    git clone https://github.com/DesApp-2025c2-Grupo16/frontend.git
    cd frontend
 2. Instalar dependencias:
-npm install
+   ```bash
+   npm install
 3. Levantar en modo desarrollo:
-npm run dev
+   ```bash
+   npm run dev
 4. Abrir en el navegador:
 http://localhost:5173
-
----
-
-## Importante
-
-A la hora de iniciar la aplicacion tener en cuenta que esta conectada con el backend del repositorio backend2
